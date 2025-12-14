@@ -195,7 +195,7 @@ Attendance, automation, and operational data processing
 
 <img width="1476" height="837" alt="image" src="https://github.com/user-attachments/assets/c3e195c0-45e5-49ba-aa0b-e9630ea54aca" />
 
-<img width="1090" height="607" alt="image" src="https://github.com/user-attachments/assets/9040dda6-7c61-4737-81ce-f49058c91ec1" />
+<img width="1920" height="1080" alt="Untitled design (8)" src="https://github.com/user-attachments/assets/7f79c804-12a0-4644-95f3-094340fc47d6" />
 
 <img width="955" height="629" alt="image" src="https://github.com/user-attachments/assets/7d165beb-33a0-4c6b-b269-10c026ae7258" />
 
