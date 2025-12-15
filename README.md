@@ -179,45 +179,55 @@ Attendance, automation, and operational data processing
 
 
 
-<img width="1919" height="954" alt="image" src="https://github.com/user-attachments/assets/e782f59b-031e-4f4a-a837-33b62c4506f2" />
-
-<img width="1919" height="953" alt="image" src="https://github.com/user-attachments/assets/621eb15c-2278-4786-919a-20aee693e6fb" />
-
-<img width="1920" height="1080" alt="Untitled design (5)" src="https://github.com/user-attachments/assets/7b03650b-2927-41ee-94f7-a554751a16a1" />
-
-<img width="1920" height="1080" alt="Untitled design (6)" src="https://github.com/user-attachments/assets/b26dd05c-737c-4d14-9c2a-dd73c21daac5" />
-
-<img width="1919" height="943" alt="image" src="https://github.com/user-attachments/assets/a1ce3491-beaf-4376-8984-36d6bcdbad4f" />
-
-<img width="1920" height="1080" alt="Untitled design (7)" src="https://github.com/user-attachments/assets/51751016-89c2-4873-adf8-a45a560b2e1d" />
-
-<img width="815" height="473" alt="image" src="https://github.com/user-attachments/assets/d9bc9bd4-4964-4cab-a9c3-686520d732be" />
-
-<img width="1476" height="837" alt="image" src="https://github.com/user-attachments/assets/c3e195c0-45e5-49ba-aa0b-e9630ea54aca" />
-
-<img width="1920" height="1080" alt="Untitled design (8)" src="https://github.com/user-attachments/assets/7f79c804-12a0-4644-95f3-094340fc47d6" />
-
-<img width="955" height="629" alt="image" src="https://github.com/user-attachments/assets/7d165beb-33a0-4c6b-b269-10c026ae7258" 
 
 
-![WhatsApp Image 2025-12-14 at 2 42 00 PM](https://github.com/user-attachments/assets/660bd140-ef61-4813-bb98-296b336b27ff)
+## 🖥️ Web Application Interface
 
+Modern, role-based web dashboards designed for operational efficiency, asset management,
+and internal workflows. Built with a focus on usability, clarity, and performance.
 
-![WhatsApp Image 2025-12-14 at 2 42 00 PM (1)](https://github.com/user-attachments/assets/12c75ac5-26ce-4d6a-ad8d-fb6996b98cfa)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/e782f59b-031e-4f4a-a837-33b62c4506f2" width="100%" />
+  <img src="https://github.com/user-attachments/assets/621eb15c-2278-4786-919a-20aee693e6fb" width="100%" />
+  <img src="https://github.com/user-attachments/assets/7b03650b-2927-41ee-94f7-a554751a16a1" width="100%" />
+  <img src="https://github.com/user-attachments/assets/b26dd05c-737c-4d14-9c2a-dd73c21daac5" width="100%" />
+  <img src="https://github.com/user-attachments/assets/a1ce3491-beaf-4376-8984-36d6bcdbad4f" width="100%" />
+  <img src="https://github.com/user-attachments/assets/51751016-89c2-4873-adf8-a45a560b2e1d" width="100%" />
+</p>
 
+---
 
-![WhatsApp Image 2025-12-14 at 2 42 01 PM](https://github.com/user-attachments/assets/ae6cc075-14d6-4251-b0f9-9465e86e76ce)
+## 🖥️ Desktop Software (IT Console)
 
+Internal desktop applications built to support IT operations, asset handling,
+system administration, and automation. Designed for speed, control, and reliability.
 
-![WhatsApp Image 2025-12-14 at 2 42 01 PM (1)](https://github.com/user-attachments/assets/352ad5b2-90e6-45b0-a036-17ba7f3e28ad)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/d9bc9bd4-4964-4cab-a9c3-686520d732be" width="80%" />
+  <img src="https://github.com/user-attachments/assets/c3e195c0-45e5-49ba-aa0b-e9630ea54aca" width="100%" />
+  <img src="https://github.com/user-attachments/assets/7f79c804-12a0-4644-95f3-094340fc47d6" width="100%" />
+  <img src="https://github.com/user-attachments/assets/7d165beb-33a0-4c6b-b269-10c026ae7258" width="80%" />
+</p>
 
+---
 
-![WhatsApp Image 2025-12-14 at 2 42 02 PM](https://github.com/user-attachments/assets/d6d717d1-f00c-42ff-b7d6-36a87913f4df)
+## 📱 Mobile Application
 
+Mobile interface designed for on-the-go access to internal systems,
+attendance tracking, and operational actions with a clean and intuitive UX.
 
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/660bd140-ef61-4813-bb98-296b336b27ff" width="30%" />
+  <img src="https://github.com/user-attachments/assets/12c75ac5-26ce-4d6a-ad8d-fb6996b98cfa" width="30%" />
+  <img src="https://github.com/user-attachments/assets/ae6cc075-14d6-4251-b0f9-9465e86e76ce" width="30%" />
+  <img src="https://github.com/user-attachments/assets/352ad5b2-90e6-45b0-a036-17ba7f3e28ad" width="30%" />
+  <img src="https://github.com/user-attachments/assets/d6d717d1-f00c-42ff-b7d6-36a87913f4df" width="30%" />
+</p>
 
+---
 
-
+> ⚠️ Screenshots are provided for demonstration purposes only.  
+> Source code and internal logic are private and not publicly shared.
 
 
 
