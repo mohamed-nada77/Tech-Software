@@ -197,13 +197,7 @@ Attendance, automation, and operational data processing
 
 <img width="1920" height="1080" alt="Untitled design (8)" src="https://github.com/user-attachments/assets/7f79c804-12a0-4644-95f3-094340fc47d6" />
 
-<img width="955" height="629" alt="image" src="https://github.com/user-attachments/assets/7d165beb-33a0-4c6b-b269-10c026ae7258" />
-
-
-![WhatsApp Image 2025-12-14 at 2 42 01 PM (1)](https://github.com/user-attachments/assets/352ad5b2-90e6-45b0-a036-17ba7f3e28ad)
-
-
-![WhatsApp Image 2025-12-14 at 2 42 02 PM](https://github.com/user-attachments/assets/d6d717d1-f00c-42ff-b7d6-36a87913f4df)
+<img width="955" height="629" alt="image" src="https://github.com/user-attachments/assets/7d165beb-33a0-4c6b-b269-10c026ae7258" 
 
 
 ![WhatsApp Image 2025-12-14 at 2 42 00 PM](https://github.com/user-attachments/assets/660bd140-ef61-4813-bb98-296b336b27ff)
@@ -213,6 +207,15 @@ Attendance, automation, and operational data processing
 
 
 ![WhatsApp Image 2025-12-14 at 2 42 01 PM](https://github.com/user-attachments/assets/ae6cc075-14d6-4251-b0f9-9465e86e76ce)
+
+
+![WhatsApp Image 2025-12-14 at 2 42 01 PM (1)](https://github.com/user-attachments/assets/352ad5b2-90e6-45b0-a036-17ba7f3e28ad)
+
+
+![WhatsApp Image 2025-12-14 at 2 42 02 PM](https://github.com/user-attachments/assets/d6d717d1-f00c-42ff-b7d6-36a87913f4df)
+
+
+
 
 
 
